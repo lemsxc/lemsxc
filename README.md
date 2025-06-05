@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lemuel Manayon</h1>
+<h1 align="center">Hi 👋, I'm Lems Blazin</h1>
 <h3 align="center">Back-end Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lemsxc&label=Profile%20views&color=0e75b6&style=flat" alt="lemsxc" /> </p>
