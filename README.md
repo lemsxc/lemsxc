@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lemuel Manayon</h1>
 <h3 align="center">Back-end Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lemsxc&label=Profile%20views&color=0e75b6&style=flat" alt="lemsxc" /> </p>
+- 🌱 I’m currently learning **Laravel 12**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lemsxc" alt="lemsxc" /></a> </p>
+- 💬 Ask me about **Php Laravel**
 
 - 📫 How to reach me **lem.manayon10@gmail.com**
 
