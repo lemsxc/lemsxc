@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lemuel Manayon</h1>
+<h1 align="center">Hi 👋, I'm Lemszy</h1>
 <h3 align="center">Back-end Developer</h3>
 
 - 🌱 I’m currently learning **Laravel 12**
